@@ -2,7 +2,7 @@ package com.techarha.training.java.basics;
 
 /**
  *
- * @explaination we created a class HelloWorld using keyword class. Inside class we have defined a mathod name 'main'
+ * @explaination we created a class HelloWorld using keyword class. Inside class we have defined a method name 'main'
  * with a String array parameter. This method is public, which means its accessible to all other classes. 'Static' is
  * another modifier put on the method which makes this method accessible to other classes, without having to make the
  * object of HelloWorld class. 'Void' mean the method need not return anything.
