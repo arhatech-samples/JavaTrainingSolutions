@@ -28,7 +28,6 @@ public class HelloWorld_2 {
     }
     //TODO After printining above required fields, print the message "Thank You, its <current-time> milliseconds since January 1, 1970 UTC", where current-time should be replaced with current timestamp, derived using System class's currentTimeMillis field.
 
-
 }
 
 
