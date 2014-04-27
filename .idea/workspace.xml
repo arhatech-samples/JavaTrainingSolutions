@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac7fc13-a0e8-424e-9a5b-80e9649f16fc" name="Default" comment="questions/TODOs for basics on java">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/binary/BinaryBasics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Constructors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/binary/question/HandlingBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/overloading.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/CheckAccess.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic2.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/FibinacciGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/FibinacciGeneration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_1.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_5.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/PrimeGeneration.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/PrimeGeneration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/RandomGenerationtrt.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/RandomGenerationtrt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/UsingIfElse.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/UsingIfElse.java" />
+    <list default="true" id="6ac7fc13-a0e8-424e-9a5b-80e9649f16fc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/enums/enums.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java" afterPath="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaTraining.iws" />
@@ -146,11 +135,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/PrimeGeneration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/FibinacciGeneration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/UsingIfElse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Constructors.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/overloading.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/techarha/training/java/enums/enums.java" />
       </list>
     </option>
   </component>
@@ -677,7 +667,7 @@
       <workItem from="1398226782268" duration="5068000" />
       <workItem from="1398311123236" duration="12293000" />
       <workItem from="1398561541783" duration="3080000" />
-      <workItem from="1398572038867" duration="5841000" />
+      <workItem from="1398572038867" duration="7063000" />
     </task>
     <task id="LOCAL-00001" summary="Few changes related to TODOs">
       <created>1396556636713</created>
@@ -703,11 +693,15 @@
       <created>1398579008414</created>
       <updated>1398579008414</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="questions/TODOs for basics,binary and control flow in java">
+      <created>1398582606577</created>
+      <updated>1398582606577</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52118000" />
+    <option name="totallyTimeSpent" value="53340000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -737,7 +731,7 @@
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3276923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35276073" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3523077" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -780,7 +774,8 @@
     <MESSAGE value="Few changes related to TODOs" />
     <MESSAGE value="TODOs added for control flow" />
     <MESSAGE value="questions/TODOs for basics on java" />
-    <option name="LAST_COMMIT_MESSAGE" value="questions/TODOs for basics on java" />
+    <MESSAGE value="questions/TODOs for basics,binary and control flow in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="questions/TODOs for basics,binary and control flow in java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,30 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/RandomGenerationtrt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37128714" vertical-offset="0" max-vertical-offset="404">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/FibinacciGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2970297" vertical-offset="0" max-vertical-offset="330">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/PrimeGeneration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22277227" vertical-offset="0" max-vertical-offset="404">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/UsingIfElse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1688103" vertical-offset="0" max-vertical-offset="622">
@@ -1042,22 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1688103" vertical-offset="0" max-vertical-offset="1305">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="525">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1086,26 +1041,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/PrimeGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="540">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.22277227" vertical-offset="0" max-vertical-offset="404">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/binary/BinaryBasics.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/FibinacciGeneration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40841585" vertical-offset="0" max-vertical-offset="404">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.2970297" vertical-offset="0" max-vertical-offset="404">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/controlflow/question/RandomGenerationtrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37128714" vertical-offset="0" max-vertical-offset="404">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33168316" vertical-offset="46" max-vertical-offset="720">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.4059406" vertical-offset="46" max-vertical-offset="720">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14851485" vertical-offset="0" max-vertical-offset="404">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/question/Basic2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28960395" vertical-offset="63" max-vertical-offset="525">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/basics/HelloWorld_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/binary/BinaryBasics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/techarha/training/java/enums/enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5569307" vertical-offset="0" max-vertical-offset="404">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>
