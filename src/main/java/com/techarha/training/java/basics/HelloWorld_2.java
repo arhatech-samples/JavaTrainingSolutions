@@ -11,20 +11,11 @@ import sun.tools.jstat.Literal;
 public class HelloWorld_2 {
 
     //TODO Create a class containing an int and a char that are not initialized, and print their values to verify that Java performs default initialization.
-    static int testInt;
-    static char testChar;
-    static LiteralUsage literalUsage;
 
     public static void main(String[] args) {
-        System.out.println("Value of int is: " + testInt + "\n value of char is: " + testChar);
-
 
         //TODO Print the Declared ints and floats from LiteralUsage Object.
-        LiteralUsage literUsageLocal = new LiteralUsage();
-        literUsageLocal.printAll();
 
-        /**** Below call will lead to Null Pointer exception, because class level literalUsage reference is null, or doesn't refer to the object**/
-        //literalUsage.printAll();
     }
     //TODO After printining above required fields, print the message "Thank You, its <current-time> milliseconds since January 1, 1970 UTC", where current-time should be replaced with current timestamp, derived using System class's currentTimeMillis field.
 
