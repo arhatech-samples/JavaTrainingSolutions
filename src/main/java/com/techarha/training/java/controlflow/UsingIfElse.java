@@ -5,7 +5,7 @@ package com.techarha.training.java.controlflow;
  * @explaination: We are comparing int below
  * @author ankit.
  */
-public class UsingIfElse extends CheckAccess{
+public class UsingIfElse{
     static int myValue;
     static int reqValue;
 
@@ -19,10 +19,5 @@ public class UsingIfElse extends CheckAccess{
         }else{
             System.out.println("MyValue is greater than the ReqValue");
         }
-
-
-        CheckAccess check = new CheckAccess();
-        check.myVal = 32;
-        us.helloo = 12;
     }
 }

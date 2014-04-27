@@ -1,7 +1,7 @@
 package com.techarha.training.java.basics.question;
 
 /**
- * @question1 Create a class called Dog containing two Strings: name and says. In main( ), create two dog objects
+ *@question1 Create a class called Dog containing two Strings: name and says. In main( ), create two dog objects
  *           with names “spot” (who says, “Ruff!”) and “scruffy” (who says, “Wurf!”). Then display their names
  *           and what they say. (TIJ-4 (5))
  *@explaination1 NA
@@ -18,11 +18,6 @@ public class Basic2 {
     //TODO Complete the above mentioned question
 
 }
-
-/**
-
- */
-
 
 /**
  *@question Write a program that simulates coin-flipping.(TIJ-4 (7))

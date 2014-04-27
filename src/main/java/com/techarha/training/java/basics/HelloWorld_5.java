@@ -11,8 +11,6 @@ public class HelloWorld_5 {
     //TODO create the 'main' method, get the command line parameters to fetch the radius input by user, and use getCircleArea(int) method to calculate the area. Then print the area to the console.
 
 
-
-
     float getCircleArea(int radius){
 
         //TODO make the code changes here to calculate the area of circle and return it
@@ -20,4 +18,3 @@ public class HelloWorld_5 {
         return 0.0f;
     }
 }
-
