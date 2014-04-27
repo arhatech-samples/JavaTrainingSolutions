@@ -5,11 +5,13 @@ package com.techarha.training.java.controlflow;
  * @explaination: We are comparing int below
  * @author ankit.
  */
-public class UsingIfElse {
+public class UsingIfElse extends CheckAccess{
     static int myValue;
     static int reqValue;
 
+
     public static void main(String[] args) {
+        UsingIfElse us = new UsingIfElse();
         if(myValue<reqValue){
             System.out.println("MyValue is smaller than the ReqValue.");
         }else if(myValue==reqValue){
@@ -17,5 +19,10 @@ public class UsingIfElse {
         }else{
             System.out.println("MyValue is greater than the ReqValue");
         }
+
+
+        CheckAccess check = new CheckAccess();
+        check.myVal = 32;
+        us.helloo = 12;
     }
 }

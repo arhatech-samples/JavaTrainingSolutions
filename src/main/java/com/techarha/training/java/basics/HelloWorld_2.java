@@ -23,7 +23,7 @@ public class HelloWorld_2 {
         LiteralUsage literUsageLocal = new LiteralUsage();
         literUsageLocal.printAll();
 
-        /**** Below call will lead to Null Pointer Exception, because class level literalUsage reference is null, or doesn't refer to the object**/
+        /**** Below call will lead to Null Pointer exception, because class level literalUsage reference is null, or doesn't refer to the object**/
         //literalUsage.printAll();
     }
     //TODO After printining above required fields, print the message "Thank You, its <current-time> milliseconds since January 1, 1970 UTC", where current-time should be replaced with current timestamp, derived using System class's currentTimeMillis field.
