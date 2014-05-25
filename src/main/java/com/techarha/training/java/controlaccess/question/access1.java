@@ -6,7 +6,7 @@ package com.techarha.training.java.controlaccess.question;
  *
  * @author ankit.
  */
-public class access1 {
+public class Access1 {
 //TODO complete the question above.
 
 }

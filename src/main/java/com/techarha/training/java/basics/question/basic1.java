@@ -1,7 +1,7 @@
 package com.techarha.training.java.basics.question;
 
 /**
- *@question Write a program that uses the “short” and normal form of print statement. (TIJ-4 (1))
+ *@question Write a program that uses the “short” data type and print statement to print its value. (TIJ-4 (1))
  *@explaination create a class and main method in that class. Now declare and initialize a method local variable of type short and print its value.
  *
  * @author ankit.

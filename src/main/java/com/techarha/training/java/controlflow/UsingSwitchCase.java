@@ -60,7 +60,7 @@ public class UsingSwitchCase {
         return "";
     }
 
-    //TODO using enums in switch case.
+    //TODO using Enums in switch case and print the value encountered to console.
     public String switchEnum(TestEnum testEnum){
 
         switch(testEnum){
@@ -75,7 +75,7 @@ public class UsingSwitchCase {
 }
 
 
-/************** writing enums in java *********/
+/************** writing Enums in java *********/
 
 enum TestEnum{
     First, Second, Third, Fourth;

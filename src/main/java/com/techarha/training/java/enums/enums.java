@@ -11,7 +11,7 @@ package com.techarha.training.java.enums;
  *
  * @author ankit.
  */
-public class enums {
+public class Enums {
 
     //TODO complete above queries
 }

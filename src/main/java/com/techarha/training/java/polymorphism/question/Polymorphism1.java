@@ -12,3 +12,4 @@ package com.techarha.training.java.polymorphism.question;
 public class Polymorphism1 {
     //TODO implement code for the above question
 }
+

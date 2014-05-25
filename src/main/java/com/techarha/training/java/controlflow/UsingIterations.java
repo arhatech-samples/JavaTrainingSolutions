@@ -1,7 +1,7 @@
 package com.techarha.training.java.controlflow;
 
 /**
- * @question1: This class covers the basics about using loops. The code sample below prints values from 1-100 using different loops constructs.
+ * @question1: This class covers the Basics about using loops. The code sample below prints values from 1-100 using different loops constructs.
  *
  * @author ankit.
  */

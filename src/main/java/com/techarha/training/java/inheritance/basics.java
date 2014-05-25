@@ -8,7 +8,7 @@ package com.techarha.training.java.inheritance;
  *
  * @author ankit.
  */
-public class basics {
+public class Basics {
 
     //TODO code answer to above questions.
 }
